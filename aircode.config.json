@@ -1,0 +1,11 @@
+{
+  "name": "Learning_Coach",
+  "runtime": "node/v18",
+  "region": "US",
+  "envs": [
+    "feishuAppId",
+    "feishuAppSecret",
+    "OpenAISecret"
+  ],
+  "typescript": false
+}
